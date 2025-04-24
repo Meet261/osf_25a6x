@@ -4,5 +4,5 @@ Title: Executable OSF Environment
 Version: 1.0
 Authors@R: NA
 Description: Automatically generated DESCRIPTION file for Repo2Docker.
-License: See license and authorship information at https://osf.io/{project_id}/
+License: See license and authorship information at https://osf.io/25a6x/
 Imports: car, dplyr, jmv, lavaan, lordif, ltm, mirt, 
