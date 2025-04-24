@@ -50,4 +50,7 @@ docker pull meet261/repo2docker-25a6x:latest
 ```bash
 docker run -e PASSWORD=yourpassword -p 8787:8787 meet261/repo2docker-25a6x
 ```
-**Once the container is running, copy the given URL and paste it into your browser.**
+*Replace `yourpassword` with a secure password of your choice. You will use this to log in to the RStudio web interface.*
+
+**Once the container is running, visit `http://localhost:8787` in your browser.**
+Use username: `rstudio` and the password you set with `-e PASSWORD=...`.
